@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.body{
+  @apply bg-black
+  } 
+
+.profile {
+  @apply flex flex-col items-center mt-12 font-bold
+  }
+
+.EL {
+    @apply flex flex-row font-bold text-gray-500 justify-center items-center mt-6 
+    }
+
+.Name{
+  @apply text-3xl text-white font-opensans
+}
+
+
+
+
+
