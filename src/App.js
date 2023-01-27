@@ -18,7 +18,7 @@ export default function Headed() { //this becomes the Parent component, while th
 //        {/* <Navbar/> */}
 //        <Headerr/>
 //        <Main/>
-//        <Footer/>
+//        <Footer/>S
 //     </div>
 //     </div>  
 //    )
@@ -29,7 +29,7 @@ export default function Headed() { //this becomes the Parent component, while th
     return (
        <div className="flex w-full text-blue-900 m-0 p-0 bg-gray-200">
        <div>
-          <site/>
+          <Site/>
        </div>
        </div>  
       )
