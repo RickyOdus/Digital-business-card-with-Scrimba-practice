@@ -1,3 +1,4 @@
+Hi, this is my first React practice project. I used HTML, Tailwind CSS and React icons(Font Awesome) for the whole project. 
 Under App.js, these three files are in the 'src's biopage file. They are what will appear when pulled since they are the main export of the parent component imported into index.js 
 FOR REFERENCE - (these three below)
 import Headerr from './biopage/Headerr';
