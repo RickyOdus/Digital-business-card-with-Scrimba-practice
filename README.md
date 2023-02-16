@@ -1,4 +1,4 @@
-Under App.js, these three files are in the 'src's biopage file. They are what will appear when pulled sice they are the main export of the parent component imported into index.js 
+Under App.js, these three files are in the 'src's biopage file. They are what will appear when pulled since they are the main export of the parent component imported into index.js 
 FOR REFERENCE - (these three below)
 import Headerr from './biopage/Headerr';
 import Main from './biopage/Main';
