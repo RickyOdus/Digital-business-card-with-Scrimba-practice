@@ -5,12 +5,11 @@
 .body{
   @apply bg-zinc-900
   } 
-
+/* HEADER */
     .profile {
       @apply flex flex-col items-center mt-3 font-bold
     }
-    
-    
+
     .Name {
       @apply text-3xl font-opensans text-gray-100
     }
@@ -27,9 +26,28 @@
      @apply flex flex-row items-center rounded bg-blue-500 px-6 py-2 hover:text-blue-900 font-opensans text-white ml-6
     }
 
+/* MAIN BODY */
+    .About {
+    @apply text-2xl text-gray-100 mt-5 ml-8 font-black font-opensans
+    }
+
+    .Aboutbody{
+    @apply text-gray-200 px-6 pl-8
+    }
+    
+    .Interest{
+    @apply text-2xl text-gray-100 mt-4 ml-8 font-black font-opensans
+    }
+    
+    .Interestbody{
+    @apply text-gray-200 mb-7 pl-8
+    }    
+
+/* FOOTER */
    .icons {
       @apply py-5 cursor-pointer flex flex-row bg-black justify-center justify-around px-20
     }
+
 
 
      
