@@ -1,8 +1,6 @@
 import React from 'react';
 import {FaEnvelope, FaLinkedin} from 'react-icons/fa'
 import passport from "../images/passport.jpg";
-import linked from "../images/linkedin.png";
-import email from "../images/mail.png";
 
 export default function Headerr(){
 return(
