@@ -45,7 +45,7 @@
 
 /* FOOTER */
    .icons {
-      @apply py-5 cursor-pointer flex flex-row bg-black justify-center justify-around px-20
+      @apply py-5 cursor-pointer flex flex-row bg-black justify-center justify-around px-20 xl:px-96 lg:px-64
     }
 
 
