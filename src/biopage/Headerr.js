@@ -9,7 +9,7 @@ return(
 <div>
     <img className="h-80" src={passport} width="1350px" alt="" />
     <div className="profile">
-    <h1 className="Name">Odusanya Raphael</h1>
+    <h1 className="Name">dusanya Raphael</h1>
     <h3 className="text-gray-500">Front-end Developer</h3>
     <h4 className="text-gray-500 text-sm">www.yettobecreated.com</h4>
     </div>
