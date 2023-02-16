@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import { FaHeart } from 'react-icons/fa';
 import Headed from './App';
 import "./index.css";
 

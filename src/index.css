@@ -2,24 +2,37 @@
 @tailwind components;
 @tailwind utilities;
 
-
-/* .body{
-  @apply bg-black
+.body{
+  @apply bg-zinc-900
   } 
 
-.profile {
-  @apply flex flex-col items-center mt-12 font-bold
-  }
-
-.EL {
-    @apply flex flex-row font-bold text-gray-500 justify-center items-center mt-6 
+    .profile {
+      @apply flex flex-col items-center mt-3 font-bold
+    }
+    
+    
+    .Name {
+      @apply text-3xl font-opensans text-gray-100
     }
 
-.Name{
-  @apply text-3xl text-white font-opensans
-} */
+    .EL {
+      @apply flex flex-row font-bold justify-center items-center mt-4 text-xl
+    }
+    
+    .mail {
+      @apply flex flex-row items-center rounded bg-gray-100 py-2 hover:text-black px-10 font-opensans
+    }
+
+    .linked {
+     @apply flex flex-row items-center rounded bg-blue-500 px-6 py-2 hover:text-blue-900 font-opensans text-white ml-6
+    }
+
+   .icons {
+      @apply py-5 cursor-pointer flex flex-row bg-black justify-center justify-around px-20
+    }
 
 
+     
 
 
 
